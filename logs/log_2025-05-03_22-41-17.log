@@ -1,0 +1,55 @@
+
+-----
+Test: tests/test_buy_product_with_authorization.py::test_buy_product (call)
+Start time: 2025-05-03 22:41:19.892659
+Start name method: authorization
+
+End time: 2025-05-03 22:41:26.463572
+End name method: authorization
+URL: https://tomsk.znaemigraem.ru/catalog/boardgames/igra-po-tematike/family/
+
+-----
+
+-----
+Test: tests/test_buy_product_with_authorization.py::test_buy_product (call)
+Start time: 2025-05-03 22:41:26.463572
+Start name method: select_product
+
+End time: 2025-05-03 22:41:32.985172
+End name method: select_product
+URL: https://tomsk.znaemigraem.ru/cart/
+
+-----
+
+-----
+Test: tests/test_buy_product_with_authorization.py::test_buy_product (call)
+Start time: 2025-05-03 22:41:32.987227
+Start name method: check_basket_info_and_continue
+
+End time: 2025-05-03 22:41:35.589527
+End name method: check_basket_info_and_continue
+URL: https://tomsk.znaemigraem.ru/order/
+
+-----
+
+-----
+Test: tests/test_buy_product_with_authorization.py::test_buy_product (call)
+Start time: 2025-05-03 22:41:35.590524
+Start name method: choose_delivery_option_and_continue
+
+End time: 2025-05-03 22:41:42.098339
+End name method: choose_delivery_option_and_continue
+URL: https://tomsk.znaemigraem.ru/order/
+
+-----
+
+-----
+Test: tests/test_buy_product_with_authorization.py::test_buy_product (call)
+Start time: 2025-05-03 22:41:42.099325
+Start name method: fill_client_detail_for_authorized_user
+
+End time: 2025-05-03 22:41:47.461956
+End name method: fill_client_detail_for_authorized_user
+URL: https://tomsk.znaemigraem.ru/order/
+
+-----

@@ -1,0 +1,44 @@
+
+-----
+Test: tests/test_buy_product_without_authorization.py::test_buy_product (call)
+Start time: 2025-05-03 22:40:23.273701
+Start name method: select_product
+
+End time: 2025-05-03 22:40:30.709252
+End name method: select_product
+URL: https://tomsk.znaemigraem.ru/cart/
+
+-----
+
+-----
+Test: tests/test_buy_product_without_authorization.py::test_buy_product (call)
+Start time: 2025-05-03 22:40:30.709252
+Start name method: check_basket_info_and_continue
+
+End time: 2025-05-03 22:40:33.268065
+End name method: check_basket_info_and_continue
+URL: https://tomsk.znaemigraem.ru/order/
+
+-----
+
+-----
+Test: tests/test_buy_product_without_authorization.py::test_buy_product (call)
+Start time: 2025-05-03 22:40:33.270062
+Start name method: choose_delivery_option_and_continue
+
+End time: 2025-05-03 22:40:39.861424
+End name method: choose_delivery_option_and_continue
+URL: https://tomsk.znaemigraem.ru/order/
+
+-----
+
+-----
+Test: tests/test_buy_product_without_authorization.py::test_buy_product (call)
+Start time: 2025-05-03 22:40:39.861424
+Start name method: fill_client_detail_for_unauthorized_user
+
+End time: 2025-05-03 22:40:45.438968
+End name method: fill_client_detail_for_unauthorized_user
+URL: https://tomsk.znaemigraem.ru/order/
+
+-----
