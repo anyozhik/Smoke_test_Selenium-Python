@@ -23,7 +23,7 @@ class Base():
     """Method Screenshot"""
     def screenshot(self):
         now_date = datetime.now().strftime("%Y.%m.%d-%H.%M.%S")
-        self.driver.save_screenshot(f'C://Users//apach//PycharmProjects//ZnaemIgraem//screens//screenshot_{now_date}.png')
+        self.driver.save_screenshot(f'C://Users//apach//PycharmProjects//Smoke_test_Selenium-Python//screens//screenshot_{now_date}.png')
 
     """Method assert url"""
     def assert_url(self, result):
